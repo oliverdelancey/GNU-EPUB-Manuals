@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52d6c22e-a682-4910-899c-511d8e744a23</dc:identifier>
+        <dc:title>The GNU C Library Reference Manual</dc:title>
+        <dc:creator opf:file-as="Loosemore, Sandra &amp; Stallman, Richard M. &amp; McGrath, Roland &amp; Oram, Andrew &amp; Drepper, Ulrich" opf:role="aut">Sandra Loosemore</dc:creator>
+        <dc:creator opf:file-as="Loosemore, Sandra &amp; Stallman, Richard M. &amp; McGrath, Roland &amp; Oram, Andrew &amp; Drepper, Ulrich" opf:role="aut">Richard M. Stallman</dc:creator>
+        <dc:creator opf:file-as="Loosemore, Sandra &amp; Stallman, Richard M. &amp; McGrath, Roland &amp; Oram, Andrew &amp; Drepper, Ulrich" opf:role="aut">Roland McGrath</dc:creator>
+        <dc:creator opf:file-as="Loosemore, Sandra &amp; Stallman, Richard M. &amp; McGrath, Roland &amp; Oram, Andrew &amp; Drepper, Ulrich" opf:role="aut">Andrew Oram</dc:creator>
+        <dc:creator opf:file-as="Loosemore, Sandra &amp; Stallman, Richard M. &amp; McGrath, Roland &amp; Oram, Andrew &amp; Drepper, Ulrich" opf:role="aut">Ulrich Drepper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sandra Loosemore&quot;: &quot;&quot;, &quot;Richard M. Stallman&quot;: &quot;&quot;, &quot;Roland McGrath&quot;: &quot;&quot;, &quot;Andrew Oram&quot;: &quot;&quot;, &quot;Ulrich Drepper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-02T22:07:54+00:00"/>
+        <meta name="calibre:title_sort" content="GNU C Library Reference Manual, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="GNU C Library Reference Manual, The - Sandra Loosemorllman &amp; Roland McGrath &amp; Andrew Oram &amp; Ulrich Drepper.jpg"/>
+    </guide>
+</package>
